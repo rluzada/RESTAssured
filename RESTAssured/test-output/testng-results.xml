@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-01T21:54:23 PST" name="Default suite" finished-at="2022-03-01T21:54:32 PST" duration-ms="9105">
+    <groups>
+    </groups>
+    <test started-at="2022-03-01T21:54:23 PST" name="Default test" finished-at="2022-03-01T21:54:32 PST" duration-ms="9105">
+      <class name="test.GetAndPost">
+        <test-method signature="TestDelete()[pri:0, instance:test.GetAndPost@15bbf42f]" started-at="2022-03-01T21:54:23 PST" name="TestDelete" finished-at="2022-03-01T21:54:29 PST" duration-ms="5719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDelete -->
+        <test-method signature="TestGet()[pri:0, instance:test.GetAndPost@15bbf42f]" started-at="2022-03-01T21:54:29 PST" name="TestGet" finished-at="2022-03-01T21:54:30 PST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGet -->
+        <test-method signature="TestPatch()[pri:0, instance:test.GetAndPost@15bbf42f]" started-at="2022-03-01T21:54:30 PST" name="TestPatch" finished-at="2022-03-01T21:54:31 PST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPatch -->
+        <test-method signature="TestPost()[pri:0, instance:test.GetAndPost@15bbf42f]" started-at="2022-03-01T21:54:31 PST" name="TestPost" finished-at="2022-03-01T21:54:31 PST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPost -->
+        <test-method signature="TestPut()[pri:0, instance:test.GetAndPost@15bbf42f]" started-at="2022-03-01T21:54:31 PST" name="TestPut" finished-at="2022-03-01T21:54:32 PST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPut -->
+      </class> <!-- test.GetAndPost -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
